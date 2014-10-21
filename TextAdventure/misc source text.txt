@@ -1,0 +1,21 @@
+You are in a classroom listening to a professor ramble about design patterns.
+
+1) Exit by the door to the west
+2) Climb out the window
+
+You are at the end of a hallway.  
+You see: a menacing basilisk
+
+1) Enter the room to the east
+2) Enter the room to the south
+3) Walk down the hallway to the west
+
+You are on a small balcony.  
+You see: an emerald ring. 
+
+1) Enter classroom via broken window
+2) Jump down
+
+
+
+A giant duck swoops through a broken window, into the hall, and sings the "quack quack I'm a duck" song until the basilisk dies of boredom and disgust.
